@@ -102,7 +102,7 @@ Une fois les representations vectorielle obtenue, passons aux operations vectori
 
 **Application : Tri de Documents**
 **Application : Filtrage de Documents**
-**Modele de classification**
+**Modeles de classification**
 * Naive bayes
 * Logistic regression**
 **Decision tree** 
